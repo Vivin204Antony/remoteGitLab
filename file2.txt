@@ -4,3 +4,5 @@ i have done changes in file2.txt in the git remote repository .
 
 
 this is the chnage i have done to work on with stash command
+
+hishashipuri thana , long time non see 
