@@ -1,3 +1,6 @@
 This is a Text file of file2.text
 
 i have done changes in file2.txt in the git remote repository .
+
+
+this is the chnage i have done to work on with stash command
