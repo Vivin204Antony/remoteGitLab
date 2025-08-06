@@ -1,1 +1,3 @@
 This is a Text file of file2.text
+
+i have done changes in file2.txt in the git remote repository .
