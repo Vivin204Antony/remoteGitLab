@@ -4,5 +4,4 @@ i have done changes in file2.txt in the git remote repository .
 
 
 this is the chnage i have done to work on with stash command
-
-hishashipuri thana , long time non see 
+i made a change here to understand the concept of branching and merging in github how does it plays a important role
